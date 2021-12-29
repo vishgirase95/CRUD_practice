@@ -1,0 +1,16 @@
+{
+  "name": "javascript-prac",
+  "version": "1.0.0",
+  "description": "node practice",
+  "main": "Asyncrony.js",
+  "scripts": {
+    "test": "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[nodeFile.js"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "superheroes": "^3.0.0"
+  }
+}
